@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mryfrjzd
 - 👀 I’m interested in c, and c++.
 - 🌱 I’m currently learning Machine Learning.
-- 💞️ I’m looking to collaborate on Signal Processing Projects.
+- 💞️ I’m looking to collaborate on Reinforcement Learning Projects.
 - 📫 How to reach me mrymfarajzadeh@gmail.com
 
 <!---
