@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, and Reinforcement Learning.
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on Reinforcement Learning Projects.
-- 📫 How to reach me mrymfarajzadeh@gmail.com
+- 📫 How to reach me mryfrjzd@gmail.com
 
 <!---
 mryfrjzd/mryfrjzd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
